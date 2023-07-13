@@ -1,3 +1,4 @@
+using E_COMM.Repository;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +33,7 @@ namespace E_COMM
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "E_COMM", Version = "v1" });
             });
+            services.AddSingleton<IRegistration,Registration>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

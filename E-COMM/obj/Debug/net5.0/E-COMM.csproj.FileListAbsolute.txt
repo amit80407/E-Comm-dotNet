@@ -31,3 +31,12 @@ F:\ECOMM-PROJECT\E-COMM\E-COMM\obj\Debug\net5.0\refint\E-COMM.dll
 F:\ECOMM-PROJECT\E-COMM\E-COMM\obj\Debug\net5.0\E-COMM.pdb
 F:\ECOMM-PROJECT\E-COMM\E-COMM\obj\Debug\net5.0\E-COMM.genruntimeconfig.cache
 F:\ECOMM-PROJECT\E-COMM\E-COMM\obj\Debug\net5.0\ref\E-COMM.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\Npgsql.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Collections.Immutable.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Text.Json.dll
+F:\ECOMM-PROJECT\E-COMM\E-COMM\bin\Debug\net5.0\System.Threading.Channels.dll
