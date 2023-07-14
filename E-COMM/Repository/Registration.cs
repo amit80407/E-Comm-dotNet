@@ -20,7 +20,7 @@ namespace E_COMM.Repository
             try
             {
                 NpgsqlConnection con = new NpgsqlConnection(_configuration.GetConnectionString("dbc"));
-                NpgsqlCommand cmd = new NpgsqlCommand($"select fun_usermasterq('{userdata.name}','{userdata.email}',{userdata.number},'{userdata.password}','{userdata.conformpassword}')", con);
+                NpgsqlCommand cmd = new NpgsqlCommand($"select fun_usermaster('{userdata.name}','{userdata.email}',{userdata.number},'{userdata.password}','{userdata.conformpassword}')", con);
                 con.Open();
                 cmd.ExecuteNonQuery();
                 con.Close();
